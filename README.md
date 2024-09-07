@@ -8,7 +8,6 @@ The AES instances encode the e=mc^2!!!!!!!!! message with am encryption/decrypti
 In the case of hash function instances the 6-digit password was "e=mc^2" in all examples and the original messages are shown in the first line of the example QUBO files.
 
 ## Features
-- Empirical proof certificates of XOR and range QUBO encoding formulae
 - Example QUBOs of AES-128/192/256, MD5, SHA1 and SHA256 cryptographic algorithms.
 - Utilization of QUBO for optimization problems.
 - Potential for integration with quantum computing frameworks with .qubo files.
