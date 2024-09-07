@@ -1,7 +1,11 @@
 # CryptoQUBO
 
 ## Description
-CryptoQUBO is a Python script that demonstrates encoding and potential for solving cryptographic problems using Quantum Unconstrained Binary Optimization (QUBO). This project leverages state-of-the-art encoding techniques to enhance the efficiency and effectiveness by having both a small QUBO size and low coefficient magnitudes.
+CryptoQUBO is a Python script that validates QUBO instances generated for cryptography constructions including AES-128/192/256 and MD5, SHA1 and SHA-256 hash functions. These examples leverage the state-of-the-art encoding techniques of arXiv:??? to enhance the efficiency and effectiveness by having both a small QUBO size and low coefficient magnitudes.
+
+
+The AES instances encode the e=mc^2!!!!!!!!! message with am encryption/decryption key shown in the first line of the individual example QUBO instances.
+In the case of hash function instances the 6-digit password was "e=mc^2" in all examples and the original messages are shown in the first line of the example QUBO files.
 
 ## Features
 - Empirical proof certificates of XOR and range QUBO encoding formulae
